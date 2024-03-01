@@ -20,5 +20,9 @@ public class Main {
         }
 
         System.out.println(names);
+
+        for (String s: names){
+            Trie.insert(s)
+        }
     }
 }
