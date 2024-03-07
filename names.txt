@@ -96,7 +96,7 @@ Leah Veprinsky
 Dea Pulver
 Bella Pass
 Josh Weiner
-Jesse D’Elia
+Jesse DElia
 Caroline Ginsberg
 Holden Vogel
 Maddie Welton
@@ -152,7 +152,7 @@ Abhishek Chaki
 Jayden Guerrier
 Matthew Hanson
 Adaora Okpara
-Nathaniel Hyman-Metzger
+Nathaniel HymanMetzger
 Macklin Krugman
 Charlotte Cole
 Ariella Frankel
@@ -221,7 +221,7 @@ SHrey Damania
 Jacob Beinus
 Sara Elbaum
 Lilee Sprayregen
-Sofie Bastrup- Hasman
+Sofie BastrupHasman
 Alex Rahman
 Amelia Lopez
 Reese Teramo
@@ -257,7 +257,7 @@ Rafael Schorr
 Max Packles
 jemma frankel
 Sarah Roodin
-Alec O'Dea
+Alec ODea
 Jillian Galit
 Olivia Bilzin
 Jackson Winthrop
@@ -341,7 +341,7 @@ Eliza Miller
 Summer Pollack
 Vanessa Cohen
 Ella Mesard
-Ma'yan Moche
+Mayan Moche
 Chloe Luterman
 Avery Kleinman
 Morgan Weiner
@@ -424,7 +424,7 @@ Alexis Solomon
 Arjun Sharma
 nina cohen
 Nathen Kushlefsky
-Vano Haroutunian Jr.
+Vano Haroutunian Jr
 Ryder Lawrence
 Ariel yewen Sun
 Nathan Rosenstrach
@@ -548,10 +548,10 @@ Perun Grmusa
 Andrew Wander
 Safra Coco
 Ades Cassie
-O'Dea Dean
+ODea Dean
 Kesselman Payten
 Hartl Julian
-McLaughlin-Girardi Christian
+McLaughlinGirardi Christian
 Mero Daniel
 Utak Josiah
 Mazumder Nabil
